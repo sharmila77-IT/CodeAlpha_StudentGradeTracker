@@ -25,7 +25,7 @@ This is a Java-based application to manage student grades.
 
 ## Output
 Displays student details and performance report.
-![Output](output.png)
+![Output](output.png.pdf)
 
 ## Author
 Sharmila
